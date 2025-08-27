@@ -76,6 +76,7 @@ Microsoft Excel : utilisé pour l’analyse des données, la visualisation et la
 
 # Tableau de bord
 
+![alt text](<Tableau Bord-1.png>)
 
 # Usage
 
